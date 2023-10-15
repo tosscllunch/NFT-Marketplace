@@ -1,8 +1,5 @@
 # NFT Marketplace
 
-
-This repository is clone of nft_marketplace repository of dappuniversity. 
-- Link of original repository is https://github.com/dappuniversity/nft_marketplace
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
