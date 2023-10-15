@@ -1,0 +1,16 @@
+{
+    "name": "Elf in Krita",
+    "description": "Sketch of an Elf in Krita",
+    "image": "ipfs://QmQ1cUkgzabsfq3NMg5zFA8tWdbKbnr4vP7jhNaM8xZnSP",
+    "attributes": [
+        {
+          "trait_type": "art", 
+          "value": "sketch"
+        },
+        {
+            "trait_type": "item", 
+            "value": "Elf"
+          }
+     ]
+   
+  }

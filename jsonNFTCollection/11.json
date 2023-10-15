@@ -1,0 +1,16 @@
+{
+    "name": "Cute Raon",
+    "description": "Just Cute Dragon",
+    "image": "ipfs://Qmd3rQdkCNenPyGTZmeRTjRif4Cp2X5yPBTqehKuePd1WS",
+    "attributes": [
+        {
+          "trait_type": "art", 
+          "value": "sketch"
+        },
+        {
+            "trait_type": "item", 
+            "value": "Dragon child"
+          }
+     ]
+   
+  }

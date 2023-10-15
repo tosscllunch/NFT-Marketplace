@@ -1,0 +1,16 @@
+{
+    "name": "Kappa in Inazuma 11",
+    "description": "Two boys seeking for kappa",
+    "image": "ipfs://QmYzbLmL4BEJDhQoJp9Bjo71xzHaa1DgSKNEEqopnfx8nX",
+    "attributes": [
+        {
+          "trait_type": "art", 
+          "value": "sketch"
+        },
+        {
+            "trait_type": "item", 
+            "value": "inazuma11"
+          }
+     ]
+   
+  }

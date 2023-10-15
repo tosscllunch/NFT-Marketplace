@@ -1,0 +1,16 @@
+{
+    "name": "Choi Han and Cale",
+    "description": "Poor Cale",
+    "image": "ipfs://QmWH45JNGT1L8NMALznRHx2B2g3i3qpsjRPkeQJB9vfGVC",
+    "attributes": [
+        {
+          "trait_type": "art", 
+          "value": "sketch"
+        },
+        {
+            "trait_type": "item", 
+            "value": "Blood"
+          }
+     ]
+   
+  }

@@ -1,0 +1,16 @@
+{
+    "name": "Cale and Kids",
+    "description": "Just Cale with kids",
+    "image": "ipfs://QmeeGKrTWvE5d6RwixHcSMqaxWdgYRsNmgLR6uXXfWWgEB",
+    "attributes": [
+        {
+          "trait_type": "art", 
+          "value": "sketch"
+        },
+        {
+            "trait_type": "item", 
+            "value": "Cale and Kids"
+          }
+     ]
+   
+  }

@@ -1,0 +1,16 @@
+{
+    "name": "Father and Son",
+    "description": "Just Cale and Raon",
+    "image": "ipfs://QmUCSbeQMXNwVQ2yJeq6Hj1MqHk998MQCBHdxrFodGG83L",
+    "attributes": [
+        {
+          "trait_type": "art", 
+          "value": "sketch"
+        },
+        {
+            "trait_type": "item", 
+            "value": "Family"
+          }
+     ]
+   
+  }

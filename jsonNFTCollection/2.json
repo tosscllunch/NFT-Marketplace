@@ -1,0 +1,16 @@
+{
+    "name": "Best Kids Ever",
+    "description": "Dragon and Two Kitten",
+    "image": "ipfs://QmdrYryYKyxUhnwtoVurEE7p1VSKqrN8fhMsvQ1qjdxGfc",
+    "attributes": [
+        {
+          "trait_type": "art", 
+          "value": "sketch"
+        },
+        {
+            "trait_type": "item", 
+            "value": "Kids"
+          }
+     ]
+   
+  }

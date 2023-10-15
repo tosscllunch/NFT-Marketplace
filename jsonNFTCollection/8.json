@@ -1,0 +1,16 @@
+{
+    "name": "Cale and Work",
+    "description": "Working is hard for Cale",
+    "image": "ipfs://QmeqiSMuFqMhpFoNFR6bTo9XF6Mvmk3whDYSEH8vZEaiLj",
+    "attributes": [
+        {
+          "trait_type": "art", 
+          "value": "sketch"
+        },
+        {
+            "trait_type": "item", 
+            "value": "Slacker"
+          }
+     ]
+   
+  }

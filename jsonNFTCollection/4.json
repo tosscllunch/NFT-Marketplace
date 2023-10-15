@@ -1,0 +1,16 @@
+{
+    "name": "Cale and Raon",
+    "description": "Cool Cale and Raon",
+    "image": "ipfs://QmTJ42K9pPAjWcFcypCvB5bXx5eMBNDpjRKus8NR1JuhRv",
+    "attributes": [
+        {
+          "trait_type": "art", 
+          "value": "sketch"
+        },
+        {
+            "trait_type": "item", 
+            "value": "Dragons"
+          }
+     ]
+   
+  }

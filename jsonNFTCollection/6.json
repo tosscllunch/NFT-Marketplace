@@ -1,0 +1,16 @@
+{
+    "name": "Dragon Elf",
+    "description": "Sketch of Dragon Elf",
+    "image": "ipfs://QmTUPKgjAHkfeJfQ1V8gSgYgP8q4vwBcbYDWXScu1WcFBZ",
+    "attributes": [
+        {
+          "trait_type": "art", 
+          "value": "sketch"
+        },
+        {
+            "trait_type": "item", 
+            "value": "Elf Dragon"
+          }
+     ]
+   
+  }

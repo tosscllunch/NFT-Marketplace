@@ -1,0 +1,16 @@
+{
+    "name": "Apple Pie",
+    "description": "Raon fiving Cale apple pie",
+    "image": "ipfs://Qmccj5aDwoFSJf4niceNN7pDm9KDDruDYKbuv8RcqZSs8D",
+    "attributes": [
+        {
+          "trait_type": "art", 
+          "value": "sketch"
+        },
+        {
+            "trait_type": "item", 
+            "value": "apple pie"
+          }
+     ]
+   
+  }
